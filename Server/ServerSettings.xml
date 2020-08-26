@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<server>
+  <ip>224.0.0.1</ip>
+  <port>8001</port>
+  <min>1</min>
+  <max>100</max>
+</server>
